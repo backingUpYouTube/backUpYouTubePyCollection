@@ -9,11 +9,15 @@ Tutorial: **WIP**
 
 2. Go into your terminal or console depending on your OS and type **pip install beautifulsoup4** to install Beautiful Soup 4.
 
+3. Click the green *CLONE OR DOWNLOAD* button on this page and download the files as a zip.
+
+4. (Optional) Unzip the folder on your DESKTOP. 
+
 **USAGE**
 
-backUpChannelAnnotations.py
-backUpConnectedVideos.py
-backUpPlaylistAnnotations.py	
-backUpYouTube.py
+. backUpChannelAnnotations.py
+. backUpConnectedVideos.py
+. backUpPlaylistAnnotations.py	
+. backUpYouTube.py
 
 
