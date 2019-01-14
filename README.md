@@ -21,10 +21,17 @@ Using your command prompt, terminal or console navigate to the unzipped folder a
 
 * python backUpChannelAnnotations.py
 > Extracts the annotations of videos from a specific channel and optionally from videos linked to videos on this channel through annotations. Saves them on the WAYBACKMACHINE.
+[Tutorial](https://www.youtube.com/watch?v=8WAGzY_imPw&list=PLYE9-xRD-kP8XkhjpIf5zqdJeqr-U5ZpT)
+
 * python backUpConnectedVideos.py
 > Extracts the annotations of a video and videos linked to it through annotations. Saves them on the WAYBACKMACHINE.
+[Tutorial](https://www.youtube.com/watch?v=9XcKc4AKqcI&index=2&list=PLYE9-xRD-kP8XkhjpIf5zqdJeqr-U5ZpT)
+
 * python backUpPlaylistAnnotations.py	
 > Extracts the annotations of videos from a specific playlist and optionally from videos linked to these videos through annotations. Saves them on the WAYBACKMACHINE.
+[Tutorial](https://www.youtube.com/watch?v=p4pA3KOJBD4&index=3&list=PLYE9-xRD-kP8XkhjpIf5zqdJeqr-U5ZpT)
+
 * python backUpYouTube.py
 > Extracts the annotations of a single video from a specific channel and optionally from videos linked to videos on this channel via annotations. Saves them on the WAYBACKMACHINE.
+[Tutorial](https://www.youtube.com/watch?v=A3iLGVTNyfg&index=4&list=PLYE9-xRD-kP8XkhjpIf5zqdJeqr-U5ZpT)
 
