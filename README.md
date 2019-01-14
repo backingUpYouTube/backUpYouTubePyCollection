@@ -1,5 +1,5 @@
 # backUpYouTubePyCollection
-Tools for backing up YouTube (Requires Python 3 and Beautiful Soup 4) 
+Tools for backing up YouTube (Requires Python 3, Beautiful Soup 4 and the requests library) 
 
 Tutorial: **WIP**
 
@@ -9,9 +9,11 @@ Tutorial: **WIP**
 
 2. Go into your command prompt, terminal or console depending on your OS and type **pip install beautifulsoup4** to install Beautiful Soup 4.
 
-3. Click the green *CLONE OR DOWNLOAD* button on this page and download the files as a zip.
+3. When the installation completes type **pip install requests** to install the requests library.
 
-4. (Optional) Unzip the folder on your DESKTOP. 
+4. Click the green *CLONE OR DOWNLOAD* button on this page and download the files as a zip.
+
+5. (Optional) Unzip the folder on your DESKTOP. 
 
 **USAGE**
 
