@@ -20,6 +20,9 @@ Using your command prompt, terminal or console navigate to the unzipped folder a
 * python backUpChannelAnnotations.py
 > Extracts the annotations of videos from a specific channel and optionally from videos linked to videos on this channel via annotations.
 * python backUpConnectedVideos.py
+> Extracts the annotations of videos from a specific channel and optionally from videos linked to videos on this channel via annotations.
 * python backUpPlaylistAnnotations.py	
+> Extracts the annotations of videos from a specific channel and optionally from videos linked to videos on this channel via annotations.
 * python backUpChannelAnnotations.py
+> Extracts the annotations of videos from a specific channel and optionally from videos linked to videos on this channel via annotations.
 
